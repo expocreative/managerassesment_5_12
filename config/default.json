@@ -1,0 +1,4 @@
+{
+    "mongoURI1":"mongodb://localhost:27017/Data?retryWrites=true&w=majority",
+    "jwtSecret":"creative-expo"
+}
